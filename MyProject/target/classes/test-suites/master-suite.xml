@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Master Suite" verbose="10">
+<suite-files>
+  <suite-file path="March-2022-release.xml"/>
+</suite-files>
+<!-- <listeners>
+    <listener class-name="com.myproject.mp.testng.listeners.MyTestSuiteListener" />
+ </listeners> -->
+</suite>
